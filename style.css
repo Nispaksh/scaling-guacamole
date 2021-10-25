@@ -1,0 +1,54 @@
+.heading{
+    box-shadow: 10px 10px 10px grey ;
+    width: 100%;
+    margin: 10px;
+    margin-left: 0.3px;
+    font-size:x-large;
+}
+body{
+    background-image: url("pngtree-concert-musical-instrument-music-background-image_595286.jpg");
+    background-size:contain;
+    text-align: center;
+}
+body{
+    background-size: cover;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+#p{
+    font-size: small;
+}
